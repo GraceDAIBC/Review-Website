@@ -1,0 +1,4 @@
+interface:
+  display_name: "双语期中复习网站"
+  short_description: "从课程资料制作完整教材、英文诊断练习与按薄弱点重排的 HTML 复习网站"
+  default_prompt: "Use $bilingual-exam-review-site to build or update an offline HTML review portal from my course materials and exam announcements."
